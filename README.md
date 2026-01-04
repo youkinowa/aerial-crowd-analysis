@@ -20,7 +20,7 @@
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/yourusername/aerial-crowd-analysis.git
+   git clone https://github.com/yukinowa/aerial-crowd-analysis.git
    cd aerial-crowd-analysis
    ```
 
