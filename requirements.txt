@@ -1,0 +1,48 @@
+# 核心库
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+Pillow>=8.2.0
+PyYAML>=6.0
+tqdm>=4.62.0
+
+# PyTorch 及相关
+torch>=1.10.0
+torchvision>=0.11.0
+torchaudio>=0.10.0
+
+# 计算机视觉
+opencv-python>=4.5.4.60
+opencv-contrib-python>=4.5.4.60
+albumentations>=1.1.0
+
+# 深度学习
+ultralytics>=8.0.0  # 用于 YOLOv8
+timm>=0.5.4  # PyTorch 图像模型
+
+# 机器学习
+scikit-learn>=1.0.0
+hmmlearn>=0.2.6
+
+# 数据处理
+pandas>=1.3.4
+h5py>=3.6.0
+
+# 工具
+tensorboard>=2.8.0
+wandb>=0.12.0  # 可选用于实验跟踪
+pycocotools>=2.0.4  # 用于 COCO 格式处理
+
+# 视频处理
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0
+
+# 可选用于可视化
+seaborn>=0.11.2
+plotly>=5.5.0
+
+# 开发和测试
+pytest>=6.2.5
+black>=22.1.0
+flake8>=4.0.1
+isort>=5.10.1 
